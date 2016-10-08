@@ -1,0 +1,11 @@
+cn.smssdk.R
+cn.smssdk.R$array
+cn.smssdk.R$string
+cn.smssdk.gui.R
+cn.smssdk.gui.R$array
+cn.smssdk.gui.R$attr
+cn.smssdk.gui.R$color
+cn.smssdk.gui.R$drawable
+cn.smssdk.gui.R$raw
+cn.smssdk.gui.R$string
+cn.smssdk.gui.R$style

@@ -1,0 +1,207 @@
+cn.smssdk.R$array:
+    public static final int smssdk_country_group_a
+    public static final int smssdk_country_group_b
+    public static final int smssdk_country_group_c
+    public static final int smssdk_country_group_d
+    public static final int smssdk_country_group_e
+    public static final int smssdk_country_group_f
+    public static final int smssdk_country_group_g
+    public static final int smssdk_country_group_h
+    public static final int smssdk_country_group_i
+    public static final int smssdk_country_group_j
+    public static final int smssdk_country_group_k
+    public static final int smssdk_country_group_l
+    public static final int smssdk_country_group_m
+    public static final int smssdk_country_group_n
+    public static final int smssdk_country_group_o
+    public static final int smssdk_country_group_p
+    public static final int smssdk_country_group_q
+    public static final int smssdk_country_group_r
+    public static final int smssdk_country_group_s
+    public static final int smssdk_country_group_t
+    public static final int smssdk_country_group_u
+    public static final int smssdk_country_group_v
+    public static final int smssdk_country_group_w
+    public static final int smssdk_country_group_x
+    public static final int smssdk_country_group_y
+    public static final int smssdk_country_group_z
+cn.smssdk.R$string:
+    public static final int smssdk_error_desc_400
+    public static final int smssdk_error_desc_401
+    public static final int smssdk_error_desc_402
+    public static final int smssdk_error_desc_403
+    public static final int smssdk_error_desc_404
+    public static final int smssdk_error_desc_405
+    public static final int smssdk_error_desc_406
+    public static final int smssdk_error_desc_407
+    public static final int smssdk_error_desc_408
+    public static final int smssdk_error_desc_418
+    public static final int smssdk_error_desc_419
+    public static final int smssdk_error_desc_450
+    public static final int smssdk_error_desc_451
+    public static final int smssdk_error_desc_452
+    public static final int smssdk_error_desc_453
+    public static final int smssdk_error_desc_454
+    public static final int smssdk_error_desc_455
+    public static final int smssdk_error_desc_456
+    public static final int smssdk_error_desc_457
+    public static final int smssdk_error_desc_458
+    public static final int smssdk_error_desc_459
+    public static final int smssdk_error_desc_460
+    public static final int smssdk_error_desc_461
+    public static final int smssdk_error_desc_462
+    public static final int smssdk_error_desc_463
+    public static final int smssdk_error_desc_464
+    public static final int smssdk_error_desc_465
+    public static final int smssdk_error_desc_466
+    public static final int smssdk_error_desc_467
+    public static final int smssdk_error_desc_468
+    public static final int smssdk_error_desc_469
+    public static final int smssdk_error_desc_470
+    public static final int smssdk_error_desc_471
+    public static final int smssdk_error_desc_472
+    public static final int smssdk_error_desc_473
+    public static final int smssdk_error_desc_474
+    public static final int smssdk_error_desc_475
+    public static final int smssdk_error_desc_476
+    public static final int smssdk_error_desc_477
+    public static final int smssdk_error_desc_478
+    public static final int smssdk_error_desc_500
+    public static final int smssdk_error_desc_600
+    public static final int smssdk_error_desc_601
+    public static final int smssdk_error_desc_602
+    public static final int smssdk_error_desc_603
+    public static final int smssdk_error_desc_604
+    public static final int smssdk_error_desc_605
+    public static final int smssdk_error_desc_server_busy
+    public static final int smssdk_error_detail_400
+    public static final int smssdk_error_detail_401
+    public static final int smssdk_error_detail_402
+    public static final int smssdk_error_detail_403
+    public static final int smssdk_error_detail_404
+    public static final int smssdk_error_detail_405
+    public static final int smssdk_error_detail_406
+    public static final int smssdk_error_detail_407
+    public static final int smssdk_error_detail_408
+    public static final int smssdk_error_detail_418
+    public static final int smssdk_error_detail_419
+    public static final int smssdk_error_detail_450
+    public static final int smssdk_error_detail_451
+    public static final int smssdk_error_detail_452
+    public static final int smssdk_error_detail_453
+    public static final int smssdk_error_detail_454
+    public static final int smssdk_error_detail_455
+    public static final int smssdk_error_detail_456
+    public static final int smssdk_error_detail_457
+    public static final int smssdk_error_detail_458
+    public static final int smssdk_error_detail_459
+    public static final int smssdk_error_detail_460
+    public static final int smssdk_error_detail_461
+    public static final int smssdk_error_detail_462
+    public static final int smssdk_error_detail_463
+    public static final int smssdk_error_detail_464
+    public static final int smssdk_error_detail_465
+    public static final int smssdk_error_detail_466
+    public static final int smssdk_error_detail_467
+    public static final int smssdk_error_detail_468
+    public static final int smssdk_error_detail_469
+    public static final int smssdk_error_detail_470
+    public static final int smssdk_error_detail_471
+    public static final int smssdk_error_detail_472
+    public static final int smssdk_error_detail_473
+    public static final int smssdk_error_detail_474
+    public static final int smssdk_error_detail_475
+    public static final int smssdk_error_detail_476
+    public static final int smssdk_error_detail_477
+    public static final int smssdk_error_detail_478
+    public static final int smssdk_error_detail_500
+    public static final int smssdk_error_detail_600
+    public static final int smssdk_error_detail_601
+    public static final int smssdk_error_detail_602
+    public static final int smssdk_error_detail_603
+    public static final int smssdk_error_detail_604
+    public static final int smssdk_error_detail_605
+cn.smssdk.gui.BuildConfig
+cn.smssdk.gui.CommonDialog
+cn.smssdk.gui.ContactDetailPage
+cn.smssdk.gui.ContactDetailPage$1
+cn.smssdk.gui.ContactDetailPage$2
+cn.smssdk.gui.ContactEntry
+cn.smssdk.gui.ContactItemMaker
+cn.smssdk.gui.ContactsAdapter
+cn.smssdk.gui.ContactsListView
+cn.smssdk.gui.ContactsListView$1
+cn.smssdk.gui.ContactsListView$GroupAdapter
+cn.smssdk.gui.ContactsListView$InnerAdapter
+cn.smssdk.gui.ContactsPage
+cn.smssdk.gui.ContactsPage$1
+cn.smssdk.gui.ContactsPage$2
+cn.smssdk.gui.ContactsPage$3
+cn.smssdk.gui.ContactsPage$3$1
+cn.smssdk.gui.ContactsPage$4
+cn.smssdk.gui.CountryAdapter
+cn.smssdk.gui.CountryListView
+cn.smssdk.gui.CountryPage
+cn.smssdk.gui.CountryPage$1
+cn.smssdk.gui.CountryPage$2
+cn.smssdk.gui.CountryPage$2$1
+cn.smssdk.gui.CountryPage$2$1$1
+cn.smssdk.gui.DefaultContactViewItem
+cn.smssdk.gui.DefaultContactViewItem$1
+cn.smssdk.gui.DefaultContactViewItem$ViewHolder
+cn.smssdk.gui.DefaultOnSendMessageListener
+cn.smssdk.gui.GroupListView
+cn.smssdk.gui.GroupListView$1
+cn.smssdk.gui.GroupListView$2
+cn.smssdk.gui.GroupListView$GroupAdapter
+cn.smssdk.gui.GroupListView$InnerAdapter
+cn.smssdk.gui.GroupListView$OnItemClickListener
+cn.smssdk.gui.IdentifyNumPage
+cn.smssdk.gui.IdentifyNumPage$1
+cn.smssdk.gui.IdentifyNumPage$10
+cn.smssdk.gui.IdentifyNumPage$11
+cn.smssdk.gui.IdentifyNumPage$12
+cn.smssdk.gui.IdentifyNumPage$13
+cn.smssdk.gui.IdentifyNumPage$14
+cn.smssdk.gui.IdentifyNumPage$2
+cn.smssdk.gui.IdentifyNumPage$2$1
+cn.smssdk.gui.IdentifyNumPage$3
+cn.smssdk.gui.IdentifyNumPage$4
+cn.smssdk.gui.IdentifyNumPage$5
+cn.smssdk.gui.IdentifyNumPage$6
+cn.smssdk.gui.IdentifyNumPage$7
+cn.smssdk.gui.IdentifyNumPage$8
+cn.smssdk.gui.IdentifyNumPage$9
+cn.smssdk.gui.RegisterPage
+cn.smssdk.gui.RegisterPage$1
+cn.smssdk.gui.RegisterPage$1$1
+cn.smssdk.gui.RegisterPage$2
+cn.smssdk.gui.RegisterPage$3
+cn.smssdk.gui.SMSReceiver
+cn.smssdk.gui.SearchEngine
+cn.smssdk.gui.SearchEngine$1
+cn.smssdk.gui.SearchEngine$SearchIndex
+cn.smssdk.gui.SmartVerifyPage
+cn.smssdk.gui.SmartVerifyPage$1
+cn.smssdk.gui.SmartVerifyPage$2
+cn.smssdk.gui.SmartVerifyPage$3
+cn.smssdk.gui.SmartVerifyPage$4
+cn.smssdk.gui.SmartVerifyPage$5
+cn.smssdk.gui.layout.BackVerifyDialogLayout
+cn.smssdk.gui.layout.BasePageLayout
+cn.smssdk.gui.layout.ContactDetailPageLayout
+cn.smssdk.gui.layout.ContactListPageLayout
+cn.smssdk.gui.layout.ContactsListviewItemLayout
+cn.smssdk.gui.layout.CountryListPageLayout
+cn.smssdk.gui.layout.DrawableHelper
+cn.smssdk.gui.layout.IdentifyNumPageLayout
+cn.smssdk.gui.layout.LayoutFactory
+cn.smssdk.gui.layout.ListviewTitleLayout
+cn.smssdk.gui.layout.ProgressDialogLayout
+cn.smssdk.gui.layout.RegisterPageLayout
+cn.smssdk.gui.layout.Res
+cn.smssdk.gui.layout.Res$color
+cn.smssdk.gui.layout.Res$id
+cn.smssdk.gui.layout.SendMsgDialogLayout
+cn.smssdk.gui.layout.SizeHelper
+cn.smssdk.gui.layout.TitleLayout

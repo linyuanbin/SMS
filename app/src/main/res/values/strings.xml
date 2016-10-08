@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="btn_bind_phone">注册或手机绑定</string>
+</resources>

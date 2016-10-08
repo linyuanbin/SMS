@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\smssdk_edittext_bg_selector.xml",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\smssdk_edittext_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\smssdk_country_bg_selector.xml",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\smssdk_country_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\smssdk_corners_bg.xml",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\smssdk_corners_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\smssdk_corners_bg_pre.xml",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\smssdk_corners_bg_pre.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\smssdk_btn_enable.xml",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\smssdk_btn_enable.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\smssdk_country_group_scroll_down.xml",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\smssdk_country_group_scroll_down.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\smssdk_dialog_btn_back.xml",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\smssdk_dialog_btn_back.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\smssdk_corners_bg_nor.xml",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\smssdk_corners_bg_nor.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\smssdk_country_group_scroll_up.xml",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\smssdk_country_group_scroll_up.xml"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\smssdk_btn_disenable.xml",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\smssdk_btn_disenable.xml"
+    }
+]

@@ -1,0 +1,2358 @@
+[
+    {
+        "outputFile": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 16,
+                    "endColumn": 16,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 16,
+                        "endColumn": 16,
+                        "endOffset": 972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 977,
+                    "endLine": 36,
+                    "endColumn": 16,
+                    "endOffset": 2051
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 977,
+                        "endLine": 36,
+                        "endColumn": 16,
+                        "endOffset": 2051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2056,
+                    "endLine": 55,
+                    "endColumn": 16,
+                    "endOffset": 3230
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2056,
+                        "endLine": 55,
+                        "endColumn": 16,
+                        "endOffset": 3230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3235,
+                    "endLine": 62,
+                    "endColumn": 16,
+                    "endOffset": 3638
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3235,
+                        "endLine": 62,
+                        "endColumn": 16,
+                        "endOffset": 3638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3643,
+                    "endLine": 71,
+                    "endColumn": 16,
+                    "endOffset": 4046
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3643,
+                        "endLine": 71,
+                        "endColumn": 16,
+                        "endOffset": 4046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4051,
+                    "endLine": 79,
+                    "endColumn": 16,
+                    "endOffset": 4553
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4051,
+                        "endLine": 79,
+                        "endColumn": 16,
+                        "endOffset": 4553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4558,
+                    "endLine": 96,
+                    "endColumn": 16,
+                    "endOffset": 5499
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4558,
+                        "endLine": 96,
+                        "endColumn": 16,
+                        "endOffset": 5499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5504,
+                    "endLine": 102,
+                    "endColumn": 16,
+                    "endOffset": 5838
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 5504,
+                        "endLine": 102,
+                        "endColumn": 16,
+                        "endOffset": 5838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5843,
+                    "endLine": 113,
+                    "endColumn": 16,
+                    "endOffset": 8347
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 5843,
+                        "endLine": 113,
+                        "endColumn": 16,
+                        "endOffset": 8347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 8352,
+                    "endLine": 119,
+                    "endColumn": 16,
+                    "endOffset": 9224
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 8352,
+                        "endLine": 119,
+                        "endColumn": 16,
+                        "endOffset": 9224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 9229,
+                    "endLine": 126,
+                    "endColumn": 16,
+                    "endOffset": 9534
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 9229,
+                        "endLine": 126,
+                        "endColumn": 16,
+                        "endOffset": 9534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 9539,
+                    "endLine": 137,
+                    "endColumn": 16,
+                    "endOffset": 10079
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 9539,
+                        "endLine": 137,
+                        "endColumn": 16,
+                        "endOffset": 10079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 10084,
+                    "endLine": 160,
+                    "endColumn": 16,
+                    "endOffset": 11245
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 10084,
+                        "endLine": 160,
+                        "endColumn": 16,
+                        "endOffset": 11245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 11250,
+                    "endLine": 173,
+                    "endColumn": 16,
+                    "endOffset": 12081
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 11250,
+                        "endLine": 173,
+                        "endColumn": 16,
+                        "endOffset": 12081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 12086,
+                    "endLine": 176,
+                    "endColumn": 16,
+                    "endOffset": 12187
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 12086,
+                        "endLine": 176,
+                        "endColumn": 16,
+                        "endOffset": 12187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 12192,
+                    "endLine": 189,
+                    "endColumn": 16,
+                    "endOffset": 12928
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 12192,
+                        "endLine": 189,
+                        "endColumn": 16,
+                        "endOffset": 12928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 12933,
+                    "endLine": 192,
+                    "endColumn": 16,
+                    "endOffset": 13035
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 12933,
+                        "endLine": 192,
+                        "endColumn": 16,
+                        "endOffset": 13035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 13040,
+                    "endLine": 199,
+                    "endColumn": 16,
+                    "endOffset": 13410
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 4,
+                        "startOffset": 13040,
+                        "endLine": 199,
+                        "endColumn": 16,
+                        "endOffset": 13410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 13415,
+                    "endLine": 229,
+                    "endColumn": 16,
+                    "endOffset": 15308
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 13415,
+                        "endLine": 229,
+                        "endColumn": 16,
+                        "endOffset": 15308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 15313,
+                    "endLine": 242,
+                    "endColumn": 16,
+                    "endOffset": 16087
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 4,
+                        "startOffset": 15313,
+                        "endLine": 242,
+                        "endColumn": 16,
+                        "endOffset": 16087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 16092,
+                    "endLine": 251,
+                    "endColumn": 16,
+                    "endOffset": 17328
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 4,
+                        "startOffset": 16092,
+                        "endLine": 251,
+                        "endColumn": 16,
+                        "endOffset": 17328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 17333,
+                    "endLine": 258,
+                    "endColumn": 16,
+                    "endOffset": 17657
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 17333,
+                        "endLine": 258,
+                        "endColumn": 16,
+                        "endOffset": 17657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 17662,
+                    "endLine": 261,
+                    "endColumn": 16,
+                    "endOffset": 17729
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 259,
+                        "startColumn": 4,
+                        "startOffset": 17662,
+                        "endLine": 261,
+                        "endColumn": 16,
+                        "endOffset": 17729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 17734,
+                    "endLine": 264,
+                    "endColumn": 16,
+                    "endOffset": 17801
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 262,
+                        "startColumn": 4,
+                        "startOffset": 17734,
+                        "endLine": 264,
+                        "endColumn": 16,
+                        "endOffset": 17801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 17806,
+                    "endLine": 267,
+                    "endColumn": 16,
+                    "endOffset": 17914
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 4,
+                        "startOffset": 17806,
+                        "endLine": 267,
+                        "endColumn": 16,
+                        "endOffset": 17914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 17919,
+                    "endLine": 271,
+                    "endColumn": 19,
+                    "endOffset": 18079
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 4,
+                        "startOffset": 17919,
+                        "endLine": 271,
+                        "endColumn": 19,
+                        "endOffset": 18079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 18084,
+                    "endColumn": 65,
+                    "endOffset": 18145
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 18084,
+                        "endColumn": 65,
+                        "endOffset": 18145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 18150,
+                    "endColumn": 64,
+                    "endOffset": 18210
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 273,
+                        "startColumn": 4,
+                        "startOffset": 18150,
+                        "endColumn": 64,
+                        "endOffset": 18210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 18215,
+                    "endColumn": 70,
+                    "endOffset": 18281
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 274,
+                        "startColumn": 4,
+                        "startOffset": 18215,
+                        "endColumn": 70,
+                        "endOffset": 18281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 18286,
+                    "endColumn": 64,
+                    "endOffset": 18346
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 4,
+                        "startOffset": 18286,
+                        "endColumn": 64,
+                        "endOffset": 18346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 18351,
+                    "endColumn": 66,
+                    "endOffset": 18413
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 4,
+                        "startOffset": 18351,
+                        "endColumn": 66,
+                        "endOffset": 18413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 18418,
+                    "endColumn": 65,
+                    "endOffset": 18479
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 277,
+                        "startColumn": 4,
+                        "startOffset": 18418,
+                        "endColumn": 65,
+                        "endOffset": 18479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 18484,
+                    "endColumn": 69,
+                    "endOffset": 18549
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 278,
+                        "startColumn": 4,
+                        "startOffset": 18484,
+                        "endColumn": 69,
+                        "endOffset": 18549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 18554,
+                    "endColumn": 66,
+                    "endOffset": 18616
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 279,
+                        "startColumn": 4,
+                        "startOffset": 18554,
+                        "endColumn": 66,
+                        "endOffset": 18616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 18621,
+                    "endColumn": 67,
+                    "endOffset": 18684
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 280,
+                        "startColumn": 4,
+                        "startOffset": 18621,
+                        "endColumn": 67,
+                        "endOffset": 18684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 18689,
+                    "endColumn": 76,
+                    "endOffset": 18761
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 281,
+                        "startColumn": 4,
+                        "startOffset": 18689,
+                        "endColumn": 76,
+                        "endOffset": 18761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 18766,
+                    "endColumn": 64,
+                    "endOffset": 18826
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 282,
+                        "startColumn": 4,
+                        "startOffset": 18766,
+                        "endColumn": 64,
+                        "endOffset": 18826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 18831,
+                    "endColumn": 67,
+                    "endOffset": 18894
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 283,
+                        "startColumn": 4,
+                        "startOffset": 18831,
+                        "endColumn": 67,
+                        "endOffset": 18894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 18899,
+                    "endColumn": 69,
+                    "endOffset": 18964
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 284,
+                        "startColumn": 4,
+                        "startOffset": 18899,
+                        "endColumn": 69,
+                        "endOffset": 18964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 18969,
+                    "endColumn": 71,
+                    "endOffset": 19036
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 285,
+                        "startColumn": 4,
+                        "startOffset": 18969,
+                        "endColumn": 71,
+                        "endOffset": 19036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 19041,
+                    "endColumn": 64,
+                    "endOffset": 19101
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 286,
+                        "startColumn": 4,
+                        "startOffset": 19041,
+                        "endColumn": 64,
+                        "endOffset": 19101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 19106,
+                    "endColumn": 65,
+                    "endOffset": 19167
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 287,
+                        "startColumn": 4,
+                        "startOffset": 19106,
+                        "endColumn": 65,
+                        "endOffset": 19167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 19172,
+                    "endColumn": 67,
+                    "endOffset": 19235
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 288,
+                        "startColumn": 4,
+                        "startOffset": 19172,
+                        "endColumn": 67,
+                        "endOffset": 19235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 19240,
+                    "endColumn": 68,
+                    "endOffset": 19304
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 289,
+                        "startColumn": 4,
+                        "startOffset": 19240,
+                        "endColumn": 68,
+                        "endOffset": 19304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 19309,
+                    "endColumn": 73,
+                    "endOffset": 19378
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 290,
+                        "startColumn": 4,
+                        "startOffset": 19309,
+                        "endColumn": 73,
+                        "endOffset": 19378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 19383,
+                    "endColumn": 64,
+                    "endOffset": 19443
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 291,
+                        "startColumn": 4,
+                        "startOffset": 19383,
+                        "endColumn": 64,
+                        "endOffset": 19443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 19448,
+                    "endColumn": 71,
+                    "endOffset": 19515
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 292,
+                        "startColumn": 4,
+                        "startOffset": 19448,
+                        "endColumn": 71,
+                        "endOffset": 19515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 19520,
+                    "endColumn": 67,
+                    "endOffset": 19583
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 293,
+                        "startColumn": 4,
+                        "startOffset": 19520,
+                        "endColumn": 67,
+                        "endOffset": 19583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 19588,
+                    "endColumn": 67,
+                    "endOffset": 19651
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 294,
+                        "startColumn": 4,
+                        "startOffset": 19588,
+                        "endColumn": 67,
+                        "endOffset": 19651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 19656,
+                    "endColumn": 81,
+                    "endOffset": 19733
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 295,
+                        "startColumn": 4,
+                        "startOffset": 19656,
+                        "endColumn": 81,
+                        "endOffset": 19733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 19738,
+                    "endColumn": 81,
+                    "endOffset": 19815
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 296,
+                        "startColumn": 4,
+                        "startOffset": 19738,
+                        "endColumn": 81,
+                        "endOffset": 19815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 19820,
+                    "endColumn": 81,
+                    "endOffset": 19897
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 297,
+                        "startColumn": 4,
+                        "startOffset": 19820,
+                        "endColumn": 81,
+                        "endOffset": 19897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 19902,
+                    "endColumn": 81,
+                    "endOffset": 19979
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 298,
+                        "startColumn": 4,
+                        "startOffset": 19902,
+                        "endColumn": 81,
+                        "endOffset": 19979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 19984,
+                    "endColumn": 80,
+                    "endOffset": 20060
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 299,
+                        "startColumn": 4,
+                        "startOffset": 19984,
+                        "endColumn": 80,
+                        "endOffset": 20060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 20065,
+                    "endColumn": 110,
+                    "endOffset": 20171
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 300,
+                        "startColumn": 4,
+                        "startOffset": 20065,
+                        "endColumn": 110,
+                        "endOffset": 20171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 20176,
+                    "endColumn": 73,
+                    "endOffset": 20245
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 301,
+                        "startColumn": 4,
+                        "startOffset": 20176,
+                        "endColumn": 73,
+                        "endOffset": 20245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 20250,
+                    "endColumn": 67,
+                    "endOffset": 20313
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 302,
+                        "startColumn": 4,
+                        "startOffset": 20250,
+                        "endColumn": 67,
+                        "endOffset": 20313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 20318,
+                    "endColumn": 70,
+                    "endOffset": 20384
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 303,
+                        "startColumn": 4,
+                        "startOffset": 20318,
+                        "endColumn": 70,
+                        "endOffset": 20384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 20389,
+                    "endColumn": 60,
+                    "endOffset": 20445
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 304,
+                        "startColumn": 4,
+                        "startOffset": 20389,
+                        "endColumn": 60,
+                        "endOffset": 20445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 20450,
+                    "endColumn": 71,
+                    "endOffset": 20517
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 305,
+                        "startColumn": 4,
+                        "startOffset": 20450,
+                        "endColumn": 71,
+                        "endOffset": 20517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 20522,
+                    "endColumn": 104,
+                    "endOffset": 20622
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 306,
+                        "startColumn": 4,
+                        "startOffset": 20522,
+                        "endColumn": 104,
+                        "endOffset": 20622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 20627,
+                    "endColumn": 86,
+                    "endOffset": 20709
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 307,
+                        "startColumn": 4,
+                        "startOffset": 20627,
+                        "endColumn": 86,
+                        "endOffset": 20709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 20714,
+                    "endColumn": 83,
+                    "endOffset": 20793
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 308,
+                        "startColumn": 4,
+                        "startOffset": 20714,
+                        "endColumn": 83,
+                        "endOffset": 20793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 20798,
+                    "endColumn": 103,
+                    "endOffset": 20897
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 309,
+                        "startColumn": 4,
+                        "startOffset": 20798,
+                        "endColumn": 103,
+                        "endOffset": 20897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 20902,
+                    "endColumn": 102,
+                    "endOffset": 21000
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 310,
+                        "startColumn": 4,
+                        "startOffset": 20902,
+                        "endColumn": 102,
+                        "endOffset": 21000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 21005,
+                    "endColumn": 106,
+                    "endOffset": 21107
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 311,
+                        "startColumn": 4,
+                        "startOffset": 21005,
+                        "endColumn": 106,
+                        "endOffset": 21107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 21112,
+                    "endColumn": 71,
+                    "endOffset": 21179
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 312,
+                        "startColumn": 4,
+                        "startOffset": 21112,
+                        "endColumn": 71,
+                        "endOffset": 21179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 21184,
+                    "endColumn": 87,
+                    "endOffset": 21267
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 313,
+                        "startColumn": 4,
+                        "startOffset": 21184,
+                        "endColumn": 87,
+                        "endOffset": 21267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 21272,
+                    "endColumn": 71,
+                    "endOffset": 21339
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 314,
+                        "startColumn": 4,
+                        "startOffset": 21272,
+                        "endColumn": 71,
+                        "endOffset": 21339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 21344,
+                    "endColumn": 82,
+                    "endOffset": 21422
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 315,
+                        "startColumn": 4,
+                        "startOffset": 21344,
+                        "endColumn": 82,
+                        "endOffset": 21422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 21427,
+                    "endColumn": 87,
+                    "endOffset": 21510
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 316,
+                        "startColumn": 4,
+                        "startOffset": 21427,
+                        "endColumn": 87,
+                        "endOffset": 21510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 21515,
+                    "endColumn": 96,
+                    "endOffset": 21607
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 317,
+                        "startColumn": 4,
+                        "startOffset": 21515,
+                        "endColumn": 96,
+                        "endOffset": 21607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 21612,
+                    "endColumn": 85,
+                    "endOffset": 21693
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 318,
+                        "startColumn": 4,
+                        "startOffset": 21612,
+                        "endColumn": 85,
+                        "endOffset": 21693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 21698,
+                    "endColumn": 72,
+                    "endOffset": 21766
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 319,
+                        "startColumn": 4,
+                        "startOffset": 21698,
+                        "endColumn": 72,
+                        "endOffset": 21766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 21771,
+                    "endColumn": 87,
+                    "endOffset": 21854
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 320,
+                        "startColumn": 4,
+                        "startOffset": 21771,
+                        "endColumn": 87,
+                        "endOffset": 21854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 21859,
+                    "endColumn": 78,
+                    "endOffset": 21933
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 321,
+                        "startColumn": 4,
+                        "startOffset": 21859,
+                        "endColumn": 78,
+                        "endOffset": 21933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 21938,
+                    "endColumn": 84,
+                    "endOffset": 22018
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 322,
+                        "startColumn": 4,
+                        "startOffset": 21938,
+                        "endColumn": 84,
+                        "endOffset": 22018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 22023,
+                    "endColumn": 89,
+                    "endOffset": 22108
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 323,
+                        "startColumn": 4,
+                        "startOffset": 22023,
+                        "endColumn": 89,
+                        "endOffset": 22108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 22113,
+                    "endColumn": 91,
+                    "endOffset": 22200
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 324,
+                        "startColumn": 4,
+                        "startOffset": 22113,
+                        "endColumn": 91,
+                        "endOffset": 22200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 22205,
+                    "endColumn": 79,
+                    "endOffset": 22280
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 325,
+                        "startColumn": 4,
+                        "startOffset": 22205,
+                        "endColumn": 79,
+                        "endOffset": 22280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 22285,
+                    "endColumn": 85,
+                    "endOffset": 22366
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 326,
+                        "startColumn": 4,
+                        "startOffset": 22285,
+                        "endColumn": 85,
+                        "endOffset": 22366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 22371,
+                    "endColumn": 81,
+                    "endOffset": 22448
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 327,
+                        "startColumn": 4,
+                        "startOffset": 22371,
+                        "endColumn": 81,
+                        "endOffset": 22448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 22453,
+                    "endColumn": 94,
+                    "endOffset": 22543
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 328,
+                        "startColumn": 4,
+                        "startOffset": 22453,
+                        "endColumn": 94,
+                        "endOffset": 22543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 22548,
+                    "endColumn": 101,
+                    "endOffset": 22645
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 329,
+                        "startColumn": 4,
+                        "startOffset": 22548,
+                        "endColumn": 101,
+                        "endOffset": 22645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 22650,
+                    "endColumn": 81,
+                    "endOffset": 22727
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 330,
+                        "startColumn": 4,
+                        "startOffset": 22650,
+                        "endColumn": 81,
+                        "endOffset": 22727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 22732,
+                    "endColumn": 129,
+                    "endOffset": 22857
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 331,
+                        "startColumn": 4,
+                        "startOffset": 22732,
+                        "endColumn": 129,
+                        "endOffset": 22857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 22862,
+                    "endColumn": 110,
+                    "endOffset": 22968
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 332,
+                        "startColumn": 4,
+                        "startOffset": 22862,
+                        "endColumn": 110,
+                        "endOffset": 22968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 22973,
+                    "endColumn": 101,
+                    "endOffset": 23070
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 333,
+                        "startColumn": 4,
+                        "startOffset": 22973,
+                        "endColumn": 101,
+                        "endOffset": 23070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 23075,
+                    "endColumn": 86,
+                    "endOffset": 23157
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 334,
+                        "startColumn": 4,
+                        "startOffset": 23075,
+                        "endColumn": 86,
+                        "endOffset": 23157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 23162,
+                    "endColumn": 114,
+                    "endOffset": 23272
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 335,
+                        "startColumn": 4,
+                        "startOffset": 23162,
+                        "endColumn": 114,
+                        "endOffset": 23272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 23277,
+                    "endColumn": 69,
+                    "endOffset": 23342
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 336,
+                        "startColumn": 4,
+                        "startOffset": 23277,
+                        "endColumn": 69,
+                        "endOffset": 23342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 23347,
+                    "endColumn": 103,
+                    "endOffset": 23446
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 337,
+                        "startColumn": 4,
+                        "startOffset": 23347,
+                        "endColumn": 103,
+                        "endOffset": 23446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 23451,
+                    "endColumn": 107,
+                    "endOffset": 23554
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 338,
+                        "startColumn": 4,
+                        "startOffset": 23451,
+                        "endColumn": 107,
+                        "endOffset": 23554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 23559,
+                    "endColumn": 80,
+                    "endOffset": 23635
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 339,
+                        "startColumn": 4,
+                        "startOffset": 23559,
+                        "endColumn": 80,
+                        "endOffset": 23635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 23640,
+                    "endColumn": 95,
+                    "endOffset": 23731
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 340,
+                        "startColumn": 4,
+                        "startOffset": 23640,
+                        "endColumn": 95,
+                        "endOffset": 23731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 23736,
+                    "endColumn": 113,
+                    "endOffset": 23845
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 341,
+                        "startColumn": 4,
+                        "startOffset": 23736,
+                        "endColumn": 113,
+                        "endOffset": 23845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 23850,
+                    "endColumn": 101,
+                    "endOffset": 23947
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 342,
+                        "startColumn": 4,
+                        "startOffset": 23850,
+                        "endColumn": 101,
+                        "endOffset": 23947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 23952,
+                    "endColumn": 99,
+                    "endOffset": 24047
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 343,
+                        "startColumn": 4,
+                        "startOffset": 23952,
+                        "endColumn": 99,
+                        "endOffset": 24047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 24052,
+                    "endColumn": 114,
+                    "endOffset": 24162
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 344,
+                        "startColumn": 4,
+                        "startOffset": 24052,
+                        "endColumn": 114,
+                        "endOffset": 24162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 24167,
+                    "endColumn": 108,
+                    "endOffset": 24271
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 345,
+                        "startColumn": 4,
+                        "startOffset": 24167,
+                        "endColumn": 108,
+                        "endOffset": 24271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 24276,
+                    "endColumn": 115,
+                    "endOffset": 24387
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 346,
+                        "startColumn": 4,
+                        "startOffset": 24276,
+                        "endColumn": 115,
+                        "endOffset": 24387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 24392,
+                    "endColumn": 92,
+                    "endOffset": 24480
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 347,
+                        "startColumn": 4,
+                        "startOffset": 24392,
+                        "endColumn": 92,
+                        "endOffset": 24480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 24485,
+                    "endColumn": 88,
+                    "endOffset": 24569
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 348,
+                        "startColumn": 4,
+                        "startOffset": 24485,
+                        "endColumn": 88,
+                        "endOffset": 24569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 24574,
+                    "endColumn": 75,
+                    "endOffset": 24645
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 349,
+                        "startColumn": 4,
+                        "startOffset": 24574,
+                        "endColumn": 75,
+                        "endOffset": 24645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 24650,
+                    "endColumn": 109,
+                    "endOffset": 24755
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 350,
+                        "startColumn": 4,
+                        "startOffset": 24650,
+                        "endColumn": 109,
+                        "endOffset": 24755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 24760,
+                    "endColumn": 72,
+                    "endOffset": 24828
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 351,
+                        "startColumn": 4,
+                        "startOffset": 24760,
+                        "endColumn": 72,
+                        "endOffset": 24828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 24833,
+                    "endColumn": 102,
+                    "endOffset": 24931
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 352,
+                        "startColumn": 4,
+                        "startOffset": 24833,
+                        "endColumn": 102,
+                        "endOffset": 24931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 24936,
+                    "endColumn": 96,
+                    "endOffset": 25028
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 353,
+                        "startColumn": 4,
+                        "startOffset": 24936,
+                        "endColumn": 96,
+                        "endOffset": 25028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 25033,
+                    "endColumn": 107,
+                    "endOffset": 25136
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 354,
+                        "startColumn": 4,
+                        "startOffset": 25033,
+                        "endColumn": 107,
+                        "endOffset": 25136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 25141,
+                    "endColumn": 88,
+                    "endOffset": 25225
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 355,
+                        "startColumn": 4,
+                        "startOffset": 25141,
+                        "endColumn": 88,
+                        "endOffset": 25225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 25230,
+                    "endColumn": 85,
+                    "endOffset": 25311
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 356,
+                        "startColumn": 4,
+                        "startOffset": 25230,
+                        "endColumn": 85,
+                        "endOffset": 25311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 25316,
+                    "endColumn": 105,
+                    "endOffset": 25417
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 357,
+                        "startColumn": 4,
+                        "startOffset": 25316,
+                        "endColumn": 105,
+                        "endOffset": 25417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 25422,
+                    "endColumn": 104,
+                    "endOffset": 25522
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 358,
+                        "startColumn": 4,
+                        "startOffset": 25422,
+                        "endColumn": 104,
+                        "endOffset": 25522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 25527,
+                    "endColumn": 118,
+                    "endOffset": 25641
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 359,
+                        "startColumn": 4,
+                        "startOffset": 25527,
+                        "endColumn": 118,
+                        "endOffset": 25641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 360,
+                    "startColumn": 4,
+                    "startOffset": 25646,
+                    "endColumn": 73,
+                    "endOffset": 25715
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 360,
+                        "startColumn": 4,
+                        "startOffset": 25646,
+                        "endColumn": 73,
+                        "endOffset": 25715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 25720,
+                    "endColumn": 85,
+                    "endOffset": 25801
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 361,
+                        "startColumn": 4,
+                        "startOffset": 25720,
+                        "endColumn": 85,
+                        "endOffset": 25801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 25806,
+                    "endColumn": 73,
+                    "endOffset": 25875
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 362,
+                        "startColumn": 4,
+                        "startOffset": 25806,
+                        "endColumn": 73,
+                        "endOffset": 25875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 25880,
+                    "endColumn": 95,
+                    "endOffset": 25971
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 363,
+                        "startColumn": 4,
+                        "startOffset": 25880,
+                        "endColumn": 95,
+                        "endOffset": 25971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 25976,
+                    "endColumn": 89,
+                    "endOffset": 26061
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 364,
+                        "startColumn": 4,
+                        "startOffset": 25976,
+                        "endColumn": 89,
+                        "endOffset": 26061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 26066,
+                    "endColumn": 98,
+                    "endOffset": 26160
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 365,
+                        "startColumn": 4,
+                        "startOffset": 26066,
+                        "endColumn": 98,
+                        "endOffset": 26160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 26165,
+                    "endColumn": 87,
+                    "endOffset": 26248
+                },
+                "from": {
+                    "file": "E:\\AndroidstudioFile\\SMS\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 366,
+                        "startColumn": 4,
+                        "startOffset": 26165,
+                        "endColumn": 87,
+                        "endOffset": 26248
+                    }
+                }
+            }
+        ]
+    }
+]

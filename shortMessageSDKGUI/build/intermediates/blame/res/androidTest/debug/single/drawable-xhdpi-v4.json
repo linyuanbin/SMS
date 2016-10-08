@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\smssdk_dialog_back.9.png",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\smssdk_dialog_back.9.png"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\smssdk_search_icon.png",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\smssdk_search_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\smssdk_back_arrow.png",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\smssdk_back_arrow.png"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\smssdk_cp_default_avatar.png",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\smssdk_cp_default_avatar.png"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\smssdk_cl_divider.png",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\smssdk_cl_divider.png"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\smssdk_input_bg_special_normal.9.png",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\smssdk_input_bg_special_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\smssdk_input_bg_focus.9.png",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\smssdk_input_bg_focus.9.png"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\smssdk_back_arrow2.png",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\smssdk_back_arrow2.png"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\smssdk_clear_search.png",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\smssdk_clear_search.png"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\smssdk_sharesdk_icon.png",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\smssdk_sharesdk_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\smssdk_dialog_bg.9.png",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\smssdk_dialog_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\smssdk_input_bg_normal.9.png",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\smssdk_input_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\smssdk_default_avatar.png",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\smssdk_default_avatar.png"
+    },
+    {
+        "merged": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\smssdk_input_bg_special_focus.9.png",
+        "source": "E:\\AndroidstudioFile\\SMS\\shortMessageSDKGUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\smssdk_input_bg_special_focus.9.png"
+    }
+]
